@@ -5,11 +5,11 @@ A lightweight, borderless desktop widget for controlling [MPD](https://www.music
 ![status](https://img.shields.io/badge/status-in--development-yellow)
 
 <img width="320" height="480" alt="image" src="https://github.com/user-attachments/assets/5b2ca895-6757-4072-842b-117e68ef893e" />
-
+<br>
 <img width="399" height="521" alt="image" src="https://github.com/user-attachments/assets/41cae5d9-2440-4949-8706-e120d5e64533" />
-
+<br>
 <img width="458" height="562" alt="image" src="https://github.com/user-attachments/assets/faa0de5e-56ba-4156-a754-a3c249e34bca" />
-
+<br>
 <img width="221" height="305" alt="image" src="https://github.com/user-attachments/assets/1dcb4c52-d4ee-4b1e-9ec9-6da132187d92" />
 
 
